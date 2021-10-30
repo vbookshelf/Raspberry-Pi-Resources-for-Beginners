@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=BpJCAafw2qE
 
 <br>
 
-### How to connect to your Raspberry Pi remotely?
+### How to connect to your Raspberry Pi remotely
 Normally you would need to connect a monitor, mouse and keyboard to a Raspberry Pi in order to use it. However, there are two more convenient ways to connect remotely. By setting up a virtual desktop you'll be able to access your raspberry Pi's GUI (Graphical User Interface) from your Mac or PC. You can also connect to your Raspberry Pi's command line using SSH. Keep in mind that installing Putty is only required on Windows PC's and not on a Mac.
 
 - Caroline Dunn<br>
