@@ -1,6 +1,11 @@
 ## Raspberry Pi Resources for Beginners
 The Raspberry Pi is the tech equivalent of Harry Potter's magic wand. With knowledge and a little imagination, you can use it to work wonders. Here are a few resources to help you get started.
 
+<br>
+<img src="https://github.com/vbookshelf/Raspberry-Pi-Resources-for-Beginners/blob/main/images/rpi.jpg" width="500"></img>
+<i>Raspberry Pi Zero W<br>Photo by Harrison Broadbent on Unsplash</i><br>
+<br>
+
 ### What is a Raspberry Pi?
 
 - Raspberry Pi Foundation<br>
