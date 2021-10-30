@@ -67,8 +67,41 @@ Remote Access<br>
 https://www.raspberrypi.com/documentation/computers/remote-access.html
 
 
+### How to use the GPIO Pins
+
+- ExplainingComputers<br>
+Simple Guide to the Raspberry Pi GPIO Header<br>
+https://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rpi-gpio-header-and-pins/
 
 
+
+
+
+
+### Project Ideas
+Now that you have ebverything set up here are some things that you can build:
+
+- Instructables<br>
+Living Portrait Scare for Halloween Using a Raspberry Pi, PIR and Python<br>
+https://www.instructables.com/Raspberry-Pi-Based-Living-Portrait-Player-Intro/
+
+- Raspberry Pi Foundation<br>
+Deter package thieves from your porch with Raspberry Pi<br>
+https://www.raspberrypi.com/news/deter-package-thieves-from-your-porch-with-raspberry-pi/
+
+- Turn your Raspberry Pi into a Web Server<br>
+Make Tech Easier<br>
+https://www.youtube.com/watch?v=9pn1KKhxwdM
+
+
+- All3DP<br>
+The Pi's the Limit<br>
+50 Cool Raspberry Pi Projects for October 2021<br>
+https://www.itpro.co.uk/mobile/21862/raspberry-pi-top-projects-to-try-yourself
+
+- ITPro.<br>
+Raspberry Pi: Top projects to try yourself<br>
+https://www.itpro.co.uk/mobile/21862/raspberry-pi-top-projects-to-try-yourself
 
 
 
