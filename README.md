@@ -117,7 +117,19 @@ https://www.itpro.co.uk/mobile/21862/raspberry-pi-top-projects-to-try-yourself
 Raspberry Pi: Top projects to try yourself<br>
 https://www.itpro.co.uk/mobile/21862/raspberry-pi-top-projects-to-try-yourself
 
+<br>
 
+
+### Other
+
+If you would like to get into electronics but you don't know where to start then you might find the resources in the following repo helpful:
+
+- vbookshelf<br>
+Robotics Resources for Beginners<br>
+https://github.com/vbookshelf/Robotics-Resources-for-Beginners
+
+
+<br>
 
 
 
