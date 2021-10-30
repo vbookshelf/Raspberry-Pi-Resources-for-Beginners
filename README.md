@@ -75,10 +75,18 @@ https://www.raspberrypi.com/documentation/computers/remote-access.html
 
 ### How to use the GPIO Pins
 
+- Raspberry Pi Foundation<br>
+Physical Computing with Python<br>
+GPIO Pins<br>
+https://projects.raspberrypi.org/en/projects/physical-computing/1
+
 - ExplainingComputers<br>
 Simple Guide to the Raspberry Pi GPIO Header<br>
 https://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rpi-gpio-header-and-pins/
 
+- Pi My Life Up<br>
+Raspberry Pi GPIO Tutorial: The Basics Explained<br>
+https://www.youtube.com/watch?v=6PuK9fh3aL8
 
 
 <br>
