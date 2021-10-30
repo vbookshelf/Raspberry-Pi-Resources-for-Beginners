@@ -4,6 +4,7 @@ The Raspberry Pi is the tech equivalent of Harry Potter's magic wand. With knowl
 <br>
 <img src="https://github.com/vbookshelf/Raspberry-Pi-Resources-for-Beginners/blob/main/images/rpi.jpg" width="500"></img>
 <i>Raspberry Pi Zero W<br>Photo by Harrison Broadbent on Unsplash</i><br>
+
 <br>
 
 ### What is a Raspberry Pi?
@@ -19,6 +20,8 @@ https://dronebotworkshop.com/what-is-a-raspberry-pi/
 - opensource.com<br>
 What is a Raspberry Pi?<br>
 https://opensource.com/resources/raspberry-pi
+
+<br>
 
 ### How to set up your new Raspberry Pi
 
@@ -41,6 +44,7 @@ https://www.youtube.com/watch?v=B_8ZcPeaxcc
 Raspberry Pi 4 Getting Started<br>
 https://www.youtube.com/watch?v=BpJCAafw2qE
 
+<br>
 
 ### How to connect to your Raspberry Pi remotely?
 Normally you would need to connect a monitor, mouse and keyboard to a Raspberry Pi in order to use it. However, there are two more convenient ways to connect remotely. By setting up a virtual desktop you'll be able to access your raspberry Pi's GUI (Graphical User Interface) from your Mac or PC. You can also connect to your Raspberry Pi's command line using SSH. Keep in mind that installing Putty is only required on Windows PC's and not on a Mac.
@@ -67,6 +71,8 @@ Remote Access<br>
 https://www.raspberrypi.com/documentation/computers/remote-access.html
 
 
+<br>
+
 ### How to use the GPIO Pins
 
 - ExplainingComputers<br>
@@ -75,11 +81,11 @@ https://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rpi-gpio-header-an
 
 
 
-
+<br>
 
 
 ### Project Ideas
-Now that you have ebverything set up here are some things that you can build:
+Now that you have everything set up here are some things that you can build:
 
 - Instructables<br>
 Living Portrait Scare for Halloween Using a Raspberry Pi, PIR and Python<br>
