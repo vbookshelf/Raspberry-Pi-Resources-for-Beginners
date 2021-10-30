@@ -19,3 +19,26 @@ https://dronebotworkshop.com/what-is-a-raspberry-pi/
 - opensource.com<br>
 What is a Raspberry Pi?<br>
 https://opensource.com/resources/raspberry-pi
+
+### How to set up your new Raspberry Pi
+
+- Raspberry Pi Foundation<br>
+Setting up your Raspberry Pi<br>
+(Includes info on all the cables and things you're going to need.)<br>
+https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/1
+
+- Raspberry Pi Foundation<br>
+How to set up and use your brand-new Raspberry Pi<br>
+(Includes info on how to burn the OS onto an SD card using Etcher.)<br>
+https://www.raspberrypi.com/news/how-to-set-up-and-use-your-brand-new-raspberry-pi/
+
+- Murtaza's Workshop<br>
+SETUP TO PROJECT in 20 mins | Raspberry Pi Tutorials for Beginners (2020)<br>
+https://www.youtube.com/watch?v=B_8ZcPeaxcc
+
+
+- Crosstalk Solutions<br>
+Raspberry Pi 4 Getting Started<br>
+https://www.youtube.com/watch?v=BpJCAafw2qE
+
+
