@@ -1,5 +1,5 @@
 ## Raspberry Pi Resources for Beginners
-The Raspberry Pi is the tech equivalent of Harry Potter's magic wand. Here are a few resources to help you get started.
+The Raspberry Pi is the tech equivalent of Harry Potter's magic wand. With knowledge and a little imagination, you can use it to work wonders. Here are a few resources to help you get started.
 
 ### What is a Raspberry Pi?
 
