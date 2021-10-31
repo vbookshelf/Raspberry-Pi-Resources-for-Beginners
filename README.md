@@ -95,6 +95,10 @@ https://www.youtube.com/watch?v=6PuK9fh3aL8
 ### Project Ideas
 Now that you have everything set up here are some things that you can build:
 
+- ExplainingComputers<br>
+Raspberry Pi Devastator Robot<br>
+https://www.explainingcomputers.com/pi_devastator_videos.html
+
 - Instructables<br>
 Living Portrait Scare for Halloween Using a Raspberry Pi, PIR and Python<br>
 https://www.instructables.com/Raspberry-Pi-Based-Living-Portrait-Player-Intro/
@@ -111,7 +115,7 @@ https://www.youtube.com/watch?v=9pn1KKhxwdM
 - All3DP<br>
 The Pi's the Limit<br>
 50 Cool Raspberry Pi Projects for October 2021<br>
-https://www.itpro.co.uk/mobile/21862/raspberry-pi-top-projects-to-try-yourself
+https://all3dp.com/1/best-raspberry-pi-projects/
 
 - ITPro.<br>
 Raspberry Pi: Top projects to try yourself<br>
