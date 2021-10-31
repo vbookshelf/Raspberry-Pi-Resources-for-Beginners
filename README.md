@@ -96,6 +96,11 @@ https://www.youtube.com/watch?v=6PuK9fh3aL8
 Now that you have everything set up here are some things that you can build:
 
 - ExplainingComputers<br>
+Raspberry Pi Plant Watering<br>
+(Includes info on using the Raspberry Pi for time lapse photography.)<br>
+https://www.explainingcomputers.com/pi_watering.html
+
+- ExplainingComputers<br>
 Raspberry Pi Devastator Robot<br>
 https://www.explainingcomputers.com/pi_devastator_videos.html
 
@@ -103,9 +108,6 @@ https://www.explainingcomputers.com/pi_devastator_videos.html
 Living Portrait Scare for Halloween Using a Raspberry Pi, PIR and Python<br>
 https://www.instructables.com/Raspberry-Pi-Based-Living-Portrait-Player-Intro/
 
-- Raspberry Pi Foundation<br>
-Deter package thieves from your porch with Raspberry Pi<br>
-https://www.raspberrypi.com/news/deter-package-thieves-from-your-porch-with-raspberry-pi/
 
 - Turn your Raspberry Pi into a Web Server<br>
 Make Tech Easier<br>
@@ -117,9 +119,7 @@ The Pi's the Limit<br>
 50 Cool Raspberry Pi Projects for October 2021<br>
 https://all3dp.com/1/best-raspberry-pi-projects/
 
-- ITPro.<br>
-Raspberry Pi: Top projects to try yourself<br>
-https://www.itpro.co.uk/mobile/21862/raspberry-pi-top-projects-to-try-yourself
+
 
 <br>
 
