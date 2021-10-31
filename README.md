@@ -96,6 +96,10 @@ https://www.youtube.com/watch?v=6PuK9fh3aL8
 Now that you have everything set up here are some things that you can build:
 
 - ExplainingComputers<br>
+Raspberry Pi Zero W Surveillance Camera<br>
+https://www.youtube.com/watch?v=rhIzfRmKHnQ
+
+- ExplainingComputers<br>
 Raspberry Pi Plant Watering<br>
 (Includes info on using the Raspberry Pi for time lapse photography.)<br>
 https://www.explainingcomputers.com/pi_watering.html
