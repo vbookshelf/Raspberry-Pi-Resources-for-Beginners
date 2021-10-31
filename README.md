@@ -39,7 +39,7 @@ https://www.raspberrypi.com/news/how-to-set-up-and-use-your-brand-new-raspberry-
 SETUP TO PROJECT in 20 mins | Raspberry Pi Tutorials for Beginners (2020)<br>
 a) Compares the Raspberry Pi and the Arduino<br>
 b) Shows how to set up and use the VNC Viewer<br>
-c) Shows how to add the Raspberry Pi's temperature to the task bar<br>
+c) Shows how to add the Raspberry Pi's temperature to the menu bar<br>
 https://www.youtube.com/watch?v=B_8ZcPeaxcc
 
 
