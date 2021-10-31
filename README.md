@@ -104,6 +104,9 @@ https://www.explainingcomputers.com/pi_watering.html
 Raspberry Pi Devastator Robot<br>
 https://www.explainingcomputers.com/pi_devastator_videos.html
 
+- The MagPi magazine tutorials<br>
+https://magpi.raspberrypi.com/articles/category/tutorials
+
 - Instructables<br>
 Living Portrait Scare for Halloween Using a Raspberry Pi, PIR and Python<br>
 https://www.instructables.com/Raspberry-Pi-Based-Living-Portrait-Player-Intro/
@@ -126,9 +129,12 @@ https://all3dp.com/1/best-raspberry-pi-projects/
 
 ### Other
 
-If you would like to get into electronics but you don't know where to start then you might find the resources in the following repo helpful:
+- The MagPi<br>
+The official Raspberry Pi magazine.<br>
+https://magpi.raspberrypi.com/
 
-- vbookshelf<br>
+- If you're excited about getting into electronics, but you don't know where to start, then you might find the resources in the following repo helpful.
+vbookshelf<br>
 Robotics Resources for Beginners<br>
 https://github.com/vbookshelf/Robotics-Resources-for-Beginners
 
