@@ -140,7 +140,7 @@ https://all3dp.com/1/best-raspberry-pi-projects/
 The official Raspberry Pi magazine.<br>
 https://magpi.raspberrypi.com/
 
-- If you're excited about getting into electronics, but you don't know where to start, then you might find the resources in the following repo helpful.
+- If you're excited about getting into electronics, but you don't know where to start, then you might find the resources in the following repo helpful.<br>
 vbookshelf<br>
 Robotics Resources for Beginners<br>
 https://github.com/vbookshelf/Robotics-Resources-for-Beginners
