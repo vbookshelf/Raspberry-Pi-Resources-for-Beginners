@@ -101,7 +101,7 @@ You should now see the Raspberry Pi command line.
 
 c) The Raspberry Pi's IP address will change ech time it connects to your network.<br>
 To set things up so that the address always stays the same, you will need to configure your router.<br>
-The steps are different for different routers. Please follow the advice given in the above video by Caroline Dunn.
+The steps are different for different routers. Please refer to the advice given in the above video by Caroline Dunn.
 
 
 <br>
