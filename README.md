@@ -56,13 +56,10 @@ Normally you would need to connect a monitor, mouse and keyboard to a Raspberry 
 How to Remote Desktop to your Raspberry Pi with VNC Viewer<br>
 https://www.youtube.com/watch?v=NWBmYnNvN3A
 
-- BurgZerg Arcade
-Raspberry Pi SSH/VNC Remote Access<br>
-https://www.youtube.com/watch?v=kPeb5IvZW_k
-
 - ExplainingComputers<br>
 Raspberry Pi Robotics #4: SSH Network Control<br>
-This video also explains how to set up SSH on a tablet.<br>
+This video explains how to set connect via SSH from a PC by using Putty.<br>
+It also explains how to set up SSH on a tablet.<br>
 https://www.youtube.com/watch?v=44yNbFictEg
 
 - Maker Tutor<br>
@@ -82,6 +79,29 @@ This is the link to download the VNC Viewer:<br>
 https://www.realvnc.com/en/connect/download/viewer/
 
 2- Raspbian has been renamed Raspberry Pi OS.
+
+3- How to connect from a Mac to the Raspberry Pi command line via SSH:<br>
+
+a) First enable SSH from the Raspberry Pi desktop by clicking:<br>
+Preferences --> Raspberry Pi Configuration --> Interfaces<br>
+Under SSH select "Enable"
+
+b) To get the Raspberry Pi's IP address, open a terminal on the Raspberry Pi desktop and type:<br>
+
+$ hostname -I<br> (That's a capital I for indigo.)
+
+c)To connect to the raspberry Pi from your Mac, open a terminal window, on your Mac, and type:<br>
+
+$ ssh pi@<raspberry_pi_ip_address><br>
+<i>Example: ssh pi@192.168.1.100</i><br>
+
+Type "yes" if prompted.<br>
+Enter the password for the Raspberry Pi.<br>
+You should now see the Raspberry Pi command line.
+
+c) The Raspberry Pi's IP address will change ech time it connects to your network.<br>
+To set things up so that the address always stays the same, you will need to configure your router.<br>
+The steps are different for different routers. Please follow the advice given in the above video by Caroline Dunn.
 
 
 <br>
