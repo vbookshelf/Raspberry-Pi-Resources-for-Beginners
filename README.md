@@ -81,6 +81,8 @@ https://www.raspberrypi.com/documentation/computers/remote-access.html
 This is the link to download the VNC Viewer:<br>
 https://www.realvnc.com/en/connect/download/viewer/
 
+2- Raspbian has been renamed Raspberry Pi OS.
+
 
 <br>
 
