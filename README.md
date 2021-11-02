@@ -75,9 +75,9 @@ https://www.raspberrypi.com/documentation/computers/remote-access.html
 
 <br>
 
-## Notes
+#### Notes
 
-1- The VNC Viewer is what you will need. It's free. There is a fee for VNC Connect, but that's not needed.
+1- The VNC Viewer is what you will need. It's free. There is a fee for VNC Connect, but you don't need to download that for the setup.
 This is the link to download the VNC Viewer:<br>
 https://www.realvnc.com/en/connect/download/viewer/
 
