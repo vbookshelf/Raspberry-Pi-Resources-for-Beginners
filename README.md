@@ -175,6 +175,10 @@ vbookshelf<br>
 Robotics Resources for Beginners<br>
 https://github.com/vbookshelf/Robotics-Resources-for-Beginners
 
+- Pi Spy<br>
+Install Arduino IDE on Raspberry Pi<br>
+https://www.youtube.com/watch?v=xWCwJXz4B4I
+
 
 <br>
 
