@@ -121,6 +121,9 @@ https://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rpi-gpio-header-an
 Raspberry Pi GPIO Tutorial: The Basics Explained<br>
 https://www.youtube.com/watch?v=6PuK9fh3aL8
 
+- GPIO Zero docs<br>
+https://gpiozero.readthedocs.io/en/stable/
+
 
 <br>
 
