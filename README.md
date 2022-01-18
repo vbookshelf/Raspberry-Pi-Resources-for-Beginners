@@ -124,6 +124,14 @@ https://www.youtube.com/watch?v=6PuK9fh3aL8
 - GPIO Zero docs<br>
 https://gpiozero.readthedocs.io/en/stable/
 
+<br>
+
+### How to connect and use a Raspberry Pi camera
+This video explains how to use a pi camera from the Raspberry Pi command line and in python code. Sample code is included in this repo.
+
+- DoneBot Workshop<br>
+Raspberry Pi Cameras - The BIG Picture<br>
+https://www.youtube.com/watch?v=MVgr302PNwY
 
 <br>
 
