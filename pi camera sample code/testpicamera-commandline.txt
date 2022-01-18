@@ -1,0 +1,41 @@
+
+# Raspberry Pi Cameras - The BIG Picture
+# DroneBot Workshop
+# https://www.youtube.com/watch?v=MVgr302PNwY
+
+# Blog post
+# https://dronebotworkshop.com/pi-cameras/
+
+# How to take photos and record video
+# from the raspberry pi command line
+# using the pi camera.
+
+# These commands can be used as a way to quickly test
+# that the camera is working.
+
+
+# 1. raspistill takes still pictures
+# -----------------------------------
+
+# take a picture
+pi@raspberrypi:~s raspistill -o testimage.jpg
+
+# keep the preview window visible for 10 seconds
+pi@raspberrypi:~s raspistill -t 10000 -o testimagewait.jpg
+
+# see all the available parameters for raspistill
+pi@raspberrypi:~s raspistill --help
+
+
+# 2. raspivid records video
+# --------------------------
+
+# record a video
+# save in the h264 video format
+# The DroneBot Workshop blog post has info on how to convert h264 to mp4 format.
+
+pi@raspberrypi:~s raspivid -o testvideo.h264
+
+# see all the available parameters for raspivid
+pi@raspberrypi:~s raspivid --help
+
