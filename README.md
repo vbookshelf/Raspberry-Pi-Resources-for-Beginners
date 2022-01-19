@@ -133,6 +133,21 @@ This video explains how to use a pi camera from the Raspberry Pi command line an
 Raspberry Pi Cameras - The BIG Picture<br>
 https://www.youtube.com/watch?v=MVgr302PNwY
 
+
+<br>
+
+### How to use a Raspberry Pi camera with OpenCV (cv2)
+
+This tutorial explains how to use the Raspberry Pi camera with OpenCV. 
+- Adrian Rosebrock<br>
+Accessing the Raspberry Pi Camera with OpenCV and Python<br>
+https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
+
+#### Notes
+- The tutorial says to install picamera[array] but I discovered that this was already installed on the Raspberry Pi.
+- Sample code from the tutorial is included in this repo in the using-pi-camera-w-opencv-sample-code folder.
+- By combining the Raspberry Pi camera with OpenCV and Google Mediapipe you can create Ai applications.
+
 <br>
 
 
