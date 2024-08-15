@@ -193,7 +193,7 @@ Install Arduino IDE on Raspberry Pi<br>
 https://www.youtube.com/watch?v=xWCwJXz4B4I
 
 - Every Developer Needs a Raspberry Pi<br>
-(Shows how to connect over the internet etc.)<br>
+(Shows how to connect over the internet, host a web app, control things over the internet etc.)<br>
 https://www.youtube.com/watch?v=Vp4glSVPT8o
 
 <br>
